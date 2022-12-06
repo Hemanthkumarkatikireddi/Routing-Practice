@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px 0px;
+  font-family: Roboto;
+}
+.link-Class {
+  text-decoration: none;
+  margin: 0px 15px;
+  font-size: 20px;
+  font-weight: 700;
+  color: black;
+}
+.logo-container {
+  width: 20%;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+}
+h1 {
+  font-size: 20px;
+}
+.logo-img {
+  margin: 0px 15px 0px 0px;
+  height: 30px;
+  width: 30px;
+}
